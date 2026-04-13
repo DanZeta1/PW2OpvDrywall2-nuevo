@@ -13,7 +13,7 @@ export default defineConfig({
         main:                 'index.html',
         // Cambiamos 'html/' por 'src/pages/' que es donde están tus archivos según la imagen
         acercaDe:             'src/pages/acercaDe.html',
-        contactenos:          'src/pages/contacenos.html', 
+        contactenos:          'src/pages/contactenos.html', 
         formRegistro:         'src/pages/formRegistro.html',
         galeria:              'src/pages/galeria.html',
         nuestrosProgramas:    'src/pages/nuestrosProgramas.html',
